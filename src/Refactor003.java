@@ -1,5 +1,5 @@
 
-public class Refactor03 {
+public class Refactor003 {
 
 	public static void main(String[] args) {
 		//Calculamos el movimiento de un peón en un tablero de ajedrez
